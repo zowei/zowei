@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zowei
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java Web
+- 👋 Hi, I’m zowei
 - 💞️ I’m a master student in China
 - 📫 Email: 18821705441@163.com
 
